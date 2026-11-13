@@ -1,6 +1,6 @@
 # Evidence-First Customer Insight
 
-**Version 1.0.0** · A portable, evidence-first customer research skill by Experience Arc.
+**Version 1.0.0** · A portable, evidence-first customer research skill by Adrian Majerowski.
 
 This skill helps product and customer teams understand what support tickets, feedback, interviews, research notes, and community conversations actually support. It keeps requests and opinions visible without treating them as validated problems or automatic product decisions. It reports evidence, uncertainty, and useful ways to learn more; prioritization remains the team's job.
 
@@ -29,7 +29,7 @@ The AI can only analyze the material and tools actually available in that sessio
 
 ## License
 
-Copyright © 2026 Experience Arc. All rights reserved. The included `LICENSE.md` grants no-fee use by one person and their organization, including internal team use, while restricting external redistribution and resale. This is not an open-source license.
+Copyright © 2026 Adrian Majerowski. All rights reserved. The included `LICENSE.md` grants no-fee use by one person and their organization, including internal team use, while restricting external redistribution and resale. This is not an open-source license.
 
 ## Compatibility
 

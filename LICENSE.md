@@ -2,7 +2,7 @@
 
 **Version:** 1.0 · **Effective date:** 2026-11-13
 
-**Rights holder / Licensor:** Experience Arc. For licensing questions, open an issue at https://github.com/adrian-majerowski/customer-evidence/issues.
+**Rights holder / Licensor:** Adrian Majerowski. For licensing questions, open an issue at https://github.com/adrian-majerowski/customer-evidence/issues.
 
 This license applies to the `Evidence-First Customer Insight` skill, its prompt, documentation, and included materials (the **Materials**). By downloading, installing, or using the Materials, you agree to these terms. If you do not agree, do not use them.
 
