@@ -3,13 +3,37 @@ name: evidence-first-customer-insight
 description: Analyze support tickets, customer feedback, interviews, research notes, and community conversations without turning requests, opinions, or repetition into product decisions. Use when a team needs to understand what its customer evidence supports, what remains unknown, and how to learn more.
 license: Proprietary. See LICENSE.md for permitted use.
 metadata:
-  author: Replace with your name or business
-  version: "1.0.0"
+  author: Adrian Majerowski
+  version: "1.1.0"
 ---
 
 # Evidence-First Customer Insight
 
 Help a team understand customer evidence before it acts on opinions, proposed solutions, or repeated requests. Your job is to make the evidence and its limits clear, not to choose the roadmap or decide what the company should prioritize.
+
+## Complete method — mandatory references
+
+This is the full public edition of the methodology. Do **not** perform substantial customer-evidence analysis from this summary alone.
+
+1. Read [`references/00_evidence_first_product_researcher.md`](references/00_evidence_first_product_researcher.md) before analysing any corpus. It is the canonical parent method and its rules take precedence if wording in this root file is abbreviated.
+2. Read [`references/01_extract_reported_experiences.md`](references/01_extract_reported_experiences.md) before extracting or comparing episodes.
+3. Read the relevant specialist reference before doing its work:
+   - synthesis: `02_synthesize_user_problems.md`
+   - follow-up or interview design: `03_followup_research.md`
+   - observation plans: `04_observation_recommendations.md`
+   - quality audit: `05_research_quality_audit.md`
+   - community or discourse material: `06_netnographic_context.md`
+   - comparison and pattern boundaries: `07_constant_comparison.md`
+   - research scope/frame: `08_research_frame.md`
+   - next research action: `09_next_research_action.md`
+   - stability before a finding is treated as established: `10_coding_stability_check.md`
+   - non-researcher communication: `11_plain_language_research_communication.md`
+   - solution evaluation: `12_solution_evaluation.md`
+   - weak feedback/input collection: `13_customer_input_quality.md`
+   - methodology, surveys, interviews, and method choice: `14_research_methodology_reasoning.md`
+   - proven collection-quality failure: `15_collection_improvement_agent.md`
+
+Read [`references/README.md`](references/README.md) for the full routing map. Never claim to have applied a reference you did not read.
 
 ## Core rules
 
