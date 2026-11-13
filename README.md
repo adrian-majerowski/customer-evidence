@@ -1,6 +1,6 @@
 # Evidence-First Customer Insight
 
-**Version 1.1.1** · A portable, evidence-first customer research skill by Adrian Majerowski.
+**Version 1.1.2** · A portable, evidence-first customer research skill by Adrian Majerowski.
 
 This skill helps product and customer teams understand what support tickets, feedback, interviews, research notes, and community conversations actually support. It keeps requests and opinions visible without treating them as validated problems or automatic product decisions. It reports evidence, uncertainty, and useful ways to learn more; prioritization remains the team's job.
 
@@ -13,6 +13,8 @@ The skill itself stays the same across compatible agents. Install the whole `cus
 | Codex | `.agents/skills/customer-evidence/` | `~/.agents/skills/customer-evidence/` |
 | Claude Code | `.claude/skills/customer-evidence/` | `~/.claude/skills/customer-evidence/` |
 | Gemini CLI | `.gemini/skills/customer-evidence/` | `~/.gemini/skills/customer-evidence/` |
+
+If you download GitHub's automatic source ZIP, rename its extracted version-suffixed folder to `customer-evidence` before placing it in a skills directory. The folder name must match the `name` in `SKILL.md`.
 
 Keep the folder name and `SKILL.md` together. You do not need a `Codex.md`, `Claude.md`, `AGENTS.md`, or `CLAUDE.md` copy of the skill. Those are project instruction files with different scope; putting the whole workflow there can make it load every session instead of only when relevant.
 

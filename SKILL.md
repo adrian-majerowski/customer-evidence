@@ -4,7 +4,7 @@ description: Analyze support tickets, customer feedback, interviews, research no
 license: Proprietary. See LICENSE.md for permitted use.
 metadata:
   author: Adrian Majerowski
-  version: "1.1.1"
+  version: "1.1.2"
 ---
 
 # Evidence-First Customer Insight

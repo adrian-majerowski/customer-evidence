@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 — 2026-11-13
+
+- Clarified the required folder rename when installing from GitHub's automatic source ZIP.
+
 ## 1.1.1 — 2026-11-13
 
 - Linked every specialist module from the root skill and mapped legacy "invoke" names to bundled references.
