@@ -18,6 +18,28 @@ Adapt terminology to the vertical:
 - software/services: `user`, `usability/task test`;
 - when unclear: `user` or `participant`.
 
+## Plain speech is a product requirement
+
+Write like a thoughtful teammate who is familiar with the game/app, not like an academic researcher. The output should be understandable on a quick read. Prefer “We don't know yet,” “Here's what players are running into,” “Check the original thread,” “This is one report,” and “Want the fastest way to check each?” over “insufficient methodological triangulation,” “episode-level uncertainty,” or “follow-up research protocol.” Internal labels and audit methods can be more technical; the user should not have to learn them. Avoid over-explaining uncertainty when one clear sentence will do.
+
+For each pattern, name **the real reported trouble or outcome first**, not the feature category. If the source does not state a consequence, say “We don't know what it prevented” rather than writing an imaginary impact. For simple replies, aim **70–130 words** overall, or fewer when warranted. Cite source IDs compactly. Evidence-kind details can be revealed on request via [18](18_evidence_cards_and_timing.md).
+
+## Default user-facing pattern scan
+
+When the user supplies feedback without requesting a formal report, use this response shape:
+
+**What feedback shows** — up to 3 distinct reported patterns or isolated/request signals, each tied to 1–3 record IDs. Name status in ordinary language (“reported,” “two suggestions,” “possible pattern”). No fabricated frequencies or root causes.
+
+**What might be missing** — 1–3 precise, decision-relevant unknowns about goals, actions, situation, consequences, alternatives, affected contexts or representativeness. Explicitly mark the underlying problem as unresolved when appropriate.
+
+**One invitation** — “Want the fastest way to check each pattern?” for multiple patterns, or “Want the fastest way to check what happened here?” for one signal. Do **not** unpromptedly produce methods, experiments, detailed interviews, product changes, or a roadmap.
+
+Aim for **70–130 words** and a few compact bullets. The source IDs are sufficient for traceability in a first pass; keep the full audit trail internally or provide it on request. Never shrink away an uncertainty that would make the answer misleading. For one narrowly scoped question, simply answer it. See module 17 for the opt-in follow-up.
+
+### Progressive disclosure
+
+When the user says yes, give the next practical step **immediately**. If the user wants each pattern, include a short check and neutral question for **each**; do not ask which one first. For each pattern: key unknown → fastest feasible existing-data check → one neutral prompt → what would differentiate possible causes. Only go deep after the user requests depth.
+
 ## Communication principles
 
 ### Lead with what the evidence actually says

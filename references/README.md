@@ -1,4 +1,4 @@
-# Complete evidence-first method
+# Complete evidence-first method and practical modules
 
 These are the complete specialist modules for the Customer Evidence skill. The root `SKILL.md` is a router and must direct the agent here before it performs the relevant work.
 
@@ -20,3 +20,6 @@ These are the complete specialist modules for the Customer Evidence skill. The r
 | `13_customer_input_quality.md` | Diagnose recurring weakness in feedback collection. |
 | `14_research_methodology_reasoning.md` | Method choice, survey and interview reasoning, and inference limits. |
 | `15_collection_improvement_agent.md` | Bounded, versioned repair of a demonstrated collection-quality failure. |
+| `16_scraped_community_ingestion.md` | Accurate import of scraped feedback, bot relays, embeds, threads, structured form fields and deduplication. |
+| `17_fast_pattern_discovery.md` | Small, actionable, opt-in checks to uncover underlying problems pattern by pattern. |
+| `18_evidence_cards_and_timing.md` | Source-quality cards, time/version checks, and linked-thread episode counting. |

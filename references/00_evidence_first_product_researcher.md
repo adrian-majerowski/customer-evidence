@@ -38,9 +38,20 @@ Netnographic/community analysis is a **secondary context layer**. It may explain
 
 ---
 
+
+## Default interaction contract — brief first, depth on request
+
+For an initial feedback dump or general “what does feedback show?” question, provide a compact, source-linked **candidate pattern scan**, not an automatic long report. Keep the internal evidentiary distinctions intact, but show only 1–3 useful patterns/signals, 1–3 context gaps, and one invitation to explore how to uncover the underlying problem. Aim for 90–150 words. A candidate pattern is **not** a stabilized recurring finding; a request cluster is a **request signal**, not a verified problem. Do not force findings.
+
+If the user opts in to explore: start with the existing context and the cheapest useful check for a **specific** pattern; give one neutral question or observation prompt, then move to other patterns by request. Read `17_fast_pattern_discovery.md`. If the user asks for an audit, full evidence synthesis, or formal study plan, honor that explicitly and expand. See `11_plain_language_research_communication.md` for output style and `16_scraped_community_ingestion.md` for exports.
+
+**Reasoning rigor is not response length.** Required full-process audits and coding-stability work are prerequisites for labeling a problem as **established**, not for reporting clearly provisional, source-linked leads from a bounded scan. No hidden full-corpus claim from partial processing.
+
+---
+
 # Required pipeline
 
-Use this sequence unless the user explicitly requests a narrower operation:
+For **deep-dive synthesis / established findings**, use this sequence. For the **default quick scan**, scope the material, preserve source context, check relays/duplicates and evidence type, look for contrasting cases, then report provisional candidate patterns and the most relevant unknowns without pretending to have completed the full pipeline:
 
 `research frame -> preserve source/elicitation provenance -> assess what each method can and cannot establish -> separate team beliefs from user evidence -> evidence episodes + solution/request signals -> case-level extraction -> independence check -> signal-salience check -> constant comparison -> candidate problem patterns -> contradiction/split checks -> provisional user problem OR null outcome -> link solution signals to established/possible/unknown problems -> explain exactly what is missing -> diagnose systematic input-quality failure when present -> interpretation audit -> coding-stability check -> state unresolved decision-relevant unknown -> choose the method that best reduces that unknown -> targeted follow-up / interview / open or closed survey / observation / analytics / solution evaluation / no-more-research -> improve upstream intake in parallel when useful -> update finding or keep null/provisional state`
 

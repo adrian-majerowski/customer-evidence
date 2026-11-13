@@ -15,6 +15,10 @@ Do not recommend research because it sounds rigorous, because a tool is availabl
 
 Use `research-methodology-reasoning` to reason about the evidentiary job of the candidate method.
 
+## Timing: do not force a method into the initial scan
+
+In the default first response to new feedback, explain the key unknown and **offer** to explore the fastest next check. Choose and show concrete research methods after the user opts in or explicitly requests them. A user requesting a full research plan overrides this default. Internally identifying a relevant next method does not require displaying it prematurely. See module 17 for one-pattern-at-a-time discovery.
+
 ## Step 1 — State known and unknown
 
 Write:
