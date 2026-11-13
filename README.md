@@ -1,27 +1,28 @@
 # Evidence-First Customer Insight
 
-**Version 1.1.0** · A portable, evidence-first customer research skill by Adrian Majerowski.
+**Version 1.1.1** · A portable, evidence-first customer research skill by Adrian Majerowski.
 
 This skill helps product and customer teams understand what support tickets, feedback, interviews, research notes, and community conversations actually support. It keeps requests and opinions visible without treating them as validated problems or automatic product decisions. It reports evidence, uncertainty, and useful ways to learn more; prioritization remains the team's job.
 
 ## Install or use it
 
-The skill itself stays the same across compatible agents. Install the whole `evidence-first-customer-insight` folder in the location your agent scans:
+The skill itself stays the same across compatible agents. Install the whole `customer-evidence` folder in the location your agent scans:
 
 | Agent | This project only | Your projects |
 | --- | --- | --- |
-| Codex | `.agents/skills/evidence-first-customer-insight/` | `~/.agents/skills/evidence-first-customer-insight/` |
-| Claude Code | `.claude/skills/evidence-first-customer-insight/` | `~/.claude/skills/evidence-first-customer-insight/` |
+| Codex | `.agents/skills/customer-evidence/` | `~/.agents/skills/customer-evidence/` |
+| Claude Code | `.claude/skills/customer-evidence/` | `~/.claude/skills/customer-evidence/` |
+| Gemini CLI | `.gemini/skills/customer-evidence/` | `~/.gemini/skills/customer-evidence/` |
 
 Keep the folder name and `SKILL.md` together. You do not need a `Codex.md`, `Claude.md`, `AGENTS.md`, or `CLAUDE.md` copy of the skill. Those are project instruction files with different scope; putting the whole workflow there can make it load every session instead of only when relevant.
 
 For another agent that supports the open Agent Skills format, use its documented skills folder. Keep the full `references/` directory beside `SKILL.md`; it contains the complete method and specialist modules that the root skill routes to.
 
-For a chat that cannot install skills, copy `FULL_CHAT_PROMPT.md` into a conversation, fill in the research scope, and provide the material in manageable parts. `CHAT_PROMPT.md` is a short orientation version, useful only when a platform has a very small instruction limit.
+For a chat that cannot install skills, paste `FULL_CHAT_PROMPT.md` and attach `CHAT_METHOD_LIBRARY.md` as a knowledge or chat file. The library contains every specialist module in one document so the chat can access the complete method. Tell the AI to consult the relevant numbered section before its analysis. `CHAT_PROMPT.md` is a short orientation version, useful only when a platform has a very small instruction limit.
 
 The instructions are plain Markdown; no scripts, network access, or special software are required.
 
-The skill uses the open Agent Skills `SKILL.md` directory convention. The complete public method includes the parent methodology plus extraction, synthesis, follow-up, observation, quality audit, netnography, comparison, research framing, next action, stability, communication, solution evaluation, input quality, methodology reasoning, and collection-improvement references. Any compatible agent can use it, but no single skill package can be installed natively in every AI product. A chat-prompt fallback is included for products without skill loading. Follow each product's own import steps and data-handling settings.
+The skill uses the open Agent Skills `SKILL.md` directory convention. The complete public method includes the parent methodology plus extraction, synthesis, follow-up, observation, quality audit, netnography, comparison, research framing, next action, stability, communication, solution evaluation, input quality, methodology reasoning, and collection-improvement references. Any compatible agent can use it, but no single skill package can be installed natively in every AI product. The chat fallback requires both the full prompt and method library; a pasted prompt alone cannot give the AI access to files it has not received. Follow each product's own import steps and data-handling settings.
 
 ## Getting useful analysis
 

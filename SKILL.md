@@ -1,10 +1,10 @@
 ---
-name: evidence-first-customer-insight
+name: customer-evidence
 description: Analyze support tickets, customer feedback, interviews, research notes, and community conversations without turning requests, opinions, or repetition into product decisions. Use when a team needs to understand what its customer evidence supports, what remains unknown, and how to learn more.
 license: Proprietary. See LICENSE.md for permitted use.
 metadata:
   author: Adrian Majerowski
-  version: "1.1.0"
+  version: "1.1.1"
 ---
 
 # Evidence-First Customer Insight
@@ -17,23 +17,21 @@ This is the full public edition of the methodology. Do **not** perform substanti
 
 1. Read [`references/00_evidence_first_product_researcher.md`](references/00_evidence_first_product_researcher.md) before analysing any corpus. It is the canonical parent method and its rules take precedence if wording in this root file is abbreviated.
 2. Read [`references/01_extract_reported_experiences.md`](references/01_extract_reported_experiences.md) before extracting or comparing episodes.
-3. Read the relevant specialist reference before doing its work:
-   - synthesis: `02_synthesize_user_problems.md`
-   - follow-up or interview design: `03_followup_research.md`
-   - observation plans: `04_observation_recommendations.md`
-   - quality audit: `05_research_quality_audit.md`
-   - community or discourse material: `06_netnographic_context.md`
-   - comparison and pattern boundaries: `07_constant_comparison.md`
-   - research scope/frame: `08_research_frame.md`
-   - next research action: `09_next_research_action.md`
-   - stability before a finding is treated as established: `10_coding_stability_check.md`
-   - non-researcher communication: `11_plain_language_research_communication.md`
-   - solution evaluation: `12_solution_evaluation.md`
-   - weak feedback/input collection: `13_customer_input_quality.md`
-   - methodology, surveys, interviews, and method choice: `14_research_methodology_reasoning.md`
-   - proven collection-quality failure: `15_collection_improvement_agent.md`
+3. Read the specialist references for the work you are about to do:
+   - research scope/frame: [08](references/08_research_frame.md)
+   - synthesis: [02](references/02_synthesize_user_problems.md) and comparison [07](references/07_constant_comparison.md)
+   - quality audit: [05](references/05_research_quality_audit.md)
+   - community or discourse material: [06](references/06_netnographic_context.md)
+   - follow-up or interview design: [03](references/03_followup_research.md)
+   - observation plans: [04](references/04_observation_recommendations.md)
+   - next research action: [09](references/09_next_research_action.md) and method reasoning [14](references/14_research_methodology_reasoning.md)
+   - stability before calling a finding established: [10](references/10_coding_stability_check.md)
+   - non-researcher communication: [11](references/11_plain_language_research_communication.md)
+   - solution evaluation: [12](references/12_solution_evaluation.md)
+   - weak feedback/input collection: [13](references/13_customer_input_quality.md)
+   - demonstrated collection-quality failure: [15](references/15_collection_improvement_agent.md)
 
-Read [`references/README.md`](references/README.md) for the full routing map. Never claim to have applied a reference you did not read.
+The numbered files are references inside this skill, not separately installed skills. When a reference says to "invoke" a named specialist, read and apply the corresponding numbered file above. For example, `customer-input-quality` means [13](references/13_customer_input_quality.md). Do not claim to have applied a reference you did not read. If your environment cannot open the reference files, say that the complete method is unavailable in this session and request the missing files before presenting a full-method analysis.
 
 ## Core rules
 

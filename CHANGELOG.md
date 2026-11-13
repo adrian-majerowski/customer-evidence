@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.1 — 2026-11-13
+
+- Linked every specialist module from the root skill and mapped legacy "invoke" names to bundled references.
+- Added one complete method library for chat products, so the full prompt can access all specialist modules when the library is attached.
+- Clarified that a chat without the library cannot claim to apply the complete method.
+- Matched the skill name and installation folder to the published `customer-evidence` repository.
+
 ## 1.1.0 — 2026-11-13
 
 - Restored the complete evidence-first research method as on-demand specialist references.
